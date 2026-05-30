@@ -16,3 +16,4 @@ Autonomous infrastructure recovery platform built using:
 - Docker automation
 - Prometheus metrics
 - Self-healing engine
+Jenkins auto trigger test
